@@ -26,3 +26,7 @@ dapat membantu meningkatkan dan kredibilitas pada suatu instansi.
 Seorang data Enginner bertugas dalam mengembangkan data yang mentah atau masih kotor. Data kotor yang dimaksud adalah kesalahan dalam 
 penginputan data yang disebabkan human error atau system error. Sebagai Data Enggineer juga bertugas dalam merancang stuktur data dalam
 suatu instansi.
+
+<b>4. Business Analyst</b><br>
+Business Analyst merupakan profesi yang memberikan solusi manajemen data, penggunaan metodologinya seperti penambangan data, analisis prediktif, 
+dan analisis statistik untuk menganalisis dan mengubah data yang bermanfaat dan berguna. Selain itu, pekerjaan ini melakukan identifikasi dan antisipasi pada pola serta tren yang ada di pasar guna membantu dalam membuat keputusan bisnis yang lebih cerdas, efisien dan tepat karena wawasan didapatkan berbasis data.  
