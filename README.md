@@ -5,7 +5,7 @@
 <b>Pengertian sederhana</b>
 
 <p>Data Science adalah pekerjaan yang menggabungkan ilmu komputer, statistika, dan ilmu sosial dalam mengelola suatu data.
-oarang yang menekuni pekerjaan sebagai seorang praktisi data bisanya disebut data scientist. </p><br>
+orang yang menekuni pekerjaan sebagai seorang praktisi data bisanya disebut data scientist. </p><br>
 
 
 
